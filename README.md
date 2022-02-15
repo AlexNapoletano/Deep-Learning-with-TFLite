@@ -4,6 +4,8 @@ in this repository will be inserted the thesis on the "study and realization of 
 
 This project consist on a "large-way" study about Deep Learning: His history, how it works, some differences with the Machine Learning and at least you can find the study about 2 models i have used. The first one is a model precreated and pretrained from TensorFlow Lite that i've donwloaded following the tutorial they pubblished, the second one is a model that i have created and trained with Google Cloud Platform. I compared the outputs of the two objects detection models and i make my conclusions.
 
+
+____________________________________________________
 Sottoparagrafo: Come funziona il DeepLearning
 
 Sottoparagrafo: Studio dei modelli DL con hw low cost mediante TFLite Sottosottoparagrafo: Android Studio code e Modello base con i relativi link (opensoruce, ma citiamoli)
